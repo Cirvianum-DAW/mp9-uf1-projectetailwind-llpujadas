@@ -1286,14 +1286,14 @@ input[type="range"]::-ms-fill-lower {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
-.hover\:bg-blue-800:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(30 66 159 / var(--tw-bg-opacity));
-}
-
 .hover\:bg-gray-100:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(243 244 246 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-neutral-700:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(64 64 64 / var(--tw-bg-opacity));
 }
 
 .hover\:text-gray-800:hover {
@@ -1438,16 +1438,8 @@ input[type="range"]::-ms-fill-lower {
     display: none;
   }
 
-  .md\:h-28 {
-    height: 7rem;
-  }
-
   .md\:w-1\/5 {
     width: 20%;
-  }
-
-  .md\:w-28 {
-    width: 7rem;
   }
 
   .md\:w-4\/5 {
@@ -1532,16 +1524,16 @@ input[type="range"]::-ms-fill-lower {
     margin-bottom: 1.25rem;
   }
 
-  .lg\:h-36 {
-    height: 9rem;
+  .lg\:h-44 {
+    height: 11rem;
   }
 
   .lg\:h-\[0\.1\%\] {
     height: .1%;
   }
 
-  .lg\:w-36 {
-    width: 9rem;
+  .lg\:w-44 {
+    width: 11rem;
   }
 
   .lg\:w-full {
@@ -1554,6 +1546,16 @@ input[type="range"]::-ms-fill-lower {
 
   .lg\:bg-gradient-to-r {
     background-image: linear-gradient(to right, var(--tw-gradient-stops));
+  }
+
+  .lg\:text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+
+  .lg\:text-5xl {
+    font-size: 3rem;
+    line-height: 1;
   }
 }
 
