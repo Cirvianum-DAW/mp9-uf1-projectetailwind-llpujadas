@@ -25,8 +25,8 @@ Les tecnologies utilitzades per a la realització del projecte son:
 - Netlify, utilitzat per dur a terme el desplegament de la web a internet.
 
 ## Enllaços
-- Enllaç al repositori de Github: [URL de tu repositorio](https://github.com/Cirvianum-DAW/mp9-uf1-projectetailwind-llpujadas)
-- Enllaç a la pàgina web: [URL de la página web](https://entrepins-llpujadas.netlify.app)
+- Enllaç al repositori de Github: [Accedir a la URL del repositori](https://github.com/Cirvianum-DAW/mp9-uf1-projectetailwind-llpujadas)
+- Enllaç a la pàgina web: [Accedir a la web del restaurant](https://entrepins-llpujadas.netlify.app)
 
 ## Sobre mi
 - Nom: Lluís Pujadas
